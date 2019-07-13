@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Principal</string>
-    <string name="cedula">Digite Cédula</string>
+    <string name="cedula">Cédula</string>
     <string name="nombre">Nombre</string>
     <string name="apellido">Apellido</string>
     <string name="titulo">Agregar persona</string>
     <string name="agregar">Agregar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="numero">No.</string>
 </resources>
